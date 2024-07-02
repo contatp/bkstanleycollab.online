@@ -1,0 +1,364 @@
+Uri: https://bkcollab.online/quizbk1/
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\index.htm
+Content Type: text/html
+
+Uri: https://bkcollab.online/quizbk1/bg__header--mob.html
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\bg__header--mob.html
+Content Type: text/html
+
+Uri: https://bkcollab.online/quizbk1/css/all.min.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\css\all.min.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/css/bootstrap.min_1.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\css\bootstrap.min_1.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/css/style.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\css\style.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/css/style_1.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\css\style_1.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bkcollab.online/quizbk1/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\glyphicons-halflings-regular.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\glyphicons-halflings-regular.woff
+Content Type: application/font-woff
+
+Uri: https://bkcollab.online/quizbk1/fonts/glyphicons-halflings-regular.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/images/BC1.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC1.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/BC2.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC2.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/BC3.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC3.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/BC4.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC4.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/BC5.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC5.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/BC6.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\BC6.png
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/images/glyphicons-halflings-regular.svg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://bkcollab.online/quizbk1/images/logo.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\logo.png
+Content Type: image/png
+
+Uri: https://bkcollab.online/quizbk1/images/something-lost.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\images\something-lost.png
+Content Type: image/png
+
+Uri: https://bkcollab.online/quizbk1/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/buttonCheck.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\buttonCheck.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/crypto-js.min.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\crypto-js.min.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/fbevents.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/fbevents_1.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\fbevents_1.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/fbevents_2.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\fbevents_2.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/hideAllExcept.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\hideAllExcept.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/jquery-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\jquery-3.7.1.min.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/popup.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\popup.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/selectedCard.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\selectedCard.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/selectedResponse.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\selectedResponse.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/js/sendResponse.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\js\sendResponse.js
+Content Type: application/x-javascript
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\index.htm
+Content Type: text/html
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/css/all.min.css
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\css\all.min.css
+Content Type: text/css
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/fonts/Insanibu.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\fonts\Insanibu.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/bk.jpg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\bk.jpg
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/bk.svg.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\bk.svg.png
+Content Type: image/png
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/bk1.jpg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\bk1.jpg
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/bk2.jpg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\bk2.jpg
+Content Type: image/jpeg
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/bkdesc.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\bkdesc.png
+Content Type: image/png
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/images/footer.png
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\images\footer.png
+Content Type: image/png
+
+Uri: https://bkcollab.online/quizbk1/lpresgate/js/fbevents.js
+File Name: C:\Downloaded Web Sites\bkcollab.online\quizbk1\lpresgate\js\fbevents.js
+Content Type: application/x-javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&amp;display=swap
+File Name: C:\Downloaded Web Sites\bkcollab.online\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i
+File Name: C:\Downloaded Web Sites\bkcollab.online\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\bkcollab.online\s\roboto\v30\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
+Uri: https://pay.pagamentosbk.online/lqv13010M5RZxbj
+File Name: C:\Downloaded Web Sites\bkcollab.online\lqv13010M5RZxbj
+Content Type: application/json
+
+Uri: https://www.facebook.com/tr?id=1461478001397452&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\bkcollab.online\tr
+Content Type: text/plain
+
